@@ -1,4 +1,4 @@
-# Server-Essentials-Modpack
+# Server-Essentials-Modpack- https://modrinth.com/modpack/server-essentials-fabric
 
 # _**Optimizations ⚡**_
 
