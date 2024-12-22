@@ -1,7 +1,12 @@
 # Server-Essentials-Modpack- https://modrinth.com/modpack/server-essentials-fabric
 # _**Optimizations ⚡**_
 
-This modpack contains the most nesscary mods to optimize a minecraft server to its limits without damaging any vanilla mechanism. 
+Highly optimised⚡🚀 minecraft server. super easy to setup with EVERYTHING PRECONFIGURED 🖥️ . Includes important features that every server needs 🚔.works great with just 1GB ram 🔥
+# _**Optimizations ⚡**_
+
+This modpack contains the most necessary mods to optimize a minecraft server to its limits without damaging any vanilla mechanism. SUPER EASY TO USE! 
+
+**_I have configured everything👨‍💻👨‍💻 for you. Ready to play instantly_**
 
 - Better chunck generation🚀. Perfect for SMP!
 - Better networking, play lagfree with bad ping🛜
@@ -13,6 +18,11 @@ Me and my freinds personally play with render distance 20 and simulation distanc
 1)Xeon Gold 5412U
 2)4gb ram 
 and the server works smoothly like butter.
+
+# **Managment** - 
+- It includes AntiXray🚫, super essential for every server.
+- See every activity like advancments and players onlinw along with their chat from discord !🧑‍💻🧑‍💻
+- Prevent exploits by bugfixes💥
 
 # **Features 🎮**
 
@@ -32,6 +42,6 @@ Your server definetly needs the features included in the modpack to truly enhanc
 
 
 
-- Restore offline skins and change skins in-game👔 👖 👕 👗! (Thanks to fabrictailor mod)
+- Restore offline skins and change skins in-game👔 👖 👕 👗! 
   
 see-[https://modrinth.com/mod/fabrictailor](https://modrinth.com/mod/fabrictailor)
