@@ -1,5 +1,4 @@
 # Server-Essentials-Modpack- https://modrinth.com/modpack/server-essentials-fabric
-# _**Optimizations ⚡**_
 
 Highly optimised⚡🚀 minecraft server. super easy to setup with EVERYTHING PRECONFIGURED 🖥️ . Includes important features that every server needs 🚔.works great with just 1GB ram 🔥
 # _**Optimizations ⚡**_
