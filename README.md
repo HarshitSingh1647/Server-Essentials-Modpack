@@ -1,14 +1,13 @@
 # Server-Essentials-Modpack- https://modrinth.com/modpack/server-essentials-fabric
-
 # _**Optimizations ⚡**_
 
-This modpack contains the most nesscary mods to optimize a minecraft server to its limits without damaging any vanilla mechanism.
+This modpack contains the most nesscary mods to optimize a minecraft server to its limits without damaging any vanilla mechanism. 
 
 - Better chunck generation🚀. Perfect for SMP!
 - Better networking, play lagfree with bad ping🛜
 - Various Bugfixes 🐛
 - Better Mob AI⏩
-
+(🔥🔥🔥🔥 It only uses 700 mb ram on idle with spwanchunks loaded and discord integrated 🔥🔥🔥🔥)
 
 Me and my freinds personally play with render distance 20 and simulation distance 7 on 
 1)Xeon Gold 5412U
@@ -33,7 +32,6 @@ Your server definetly needs the features included in the modpack to truly enhanc
 
 
 
-- Restore offline skins and change skins in-game! (Thanks to fabrictailor mod)
-- ![fabric tailor](https://cdn.modrinth.com/data/cached_images/0e33ccb6859fb0838c1d2d6a3951b8c8c1b6fbd6_0.webp)
-
+- Restore offline skins and change skins in-game👔 👖 👕 👗! (Thanks to fabrictailor mod)
+  
 see-[https://modrinth.com/mod/fabrictailor](https://modrinth.com/mod/fabrictailor)
