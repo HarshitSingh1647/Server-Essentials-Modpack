@@ -1,6 +1,3 @@
-# Server-Essentials-Modpack- https://modrinth.com/modpack/server-essentials-fabric
-
-Highly optimised⚡🚀 minecraft server. super easy to setup with EVERYTHING PRECONFIGURED 🖥️ . Includes important features that every server needs 🚔.works great with just 1GB ram 🔥
 # _**Optimizations ⚡**_
 
 This modpack contains the most necessary mods to optimize a minecraft server to its limits without damaging any vanilla mechanism. SUPER EASY TO USE! 
@@ -11,7 +8,8 @@ This modpack contains the most necessary mods to optimize a minecraft server to 
 - Better networking, play lagfree with bad ping🛜
 - Various Bugfixes 🐛
 - Better Mob AI⏩
-(🔥🔥🔥🔥 It only uses 700 mb ram on idle with spwanchunks loaded and discord integrated 🔥🔥🔥🔥)
+(🔥🔥🔥🔥 It only uses ~550 mb ram on idle with spwanchunks loaded and discord integrated 🔥🔥🔥🔥)
+![Resource usage](https://cdn.modrinth.com/data/cached_images/37a1e859cd0f7d8832c4b032148cd1aa4bb47b79_0.webp)
 
 Me and my freinds personally play with render distance 20 and simulation distance 7 on 
 1)Xeon Gold 5412U
